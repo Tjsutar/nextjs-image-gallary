@@ -20,7 +20,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/lelouchB/next-image-gallery.git"
+    "url": "git+https://github.com/Tjsutar/nextjs-image-gallary"
   },
   "keywords": [
     "next image gallery"
