@@ -1,4 +1,4 @@
-![Next Image Gallery](https://i.imgur.com/iPbBSce.png)
+![Next Image Gallery](./public/bg.png)
 
 
 ### Next Image Gallery   [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https%3A%2F%2Fgithub.com%2FlelouchB%2Fnext-image-gallery&env=NEXT_PUBLIC_PEXELS_API_KEY&envDescription=Pexels%20API%20Key%20&envLink=https%3A%2F%2Fwww.pexels.com%2Fapi%2Fnew%2F&project-name=next-image-gallery&repo-name=next-image-gallery)
